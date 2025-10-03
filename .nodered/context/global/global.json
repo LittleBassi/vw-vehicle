@@ -1,0 +1,97 @@
+{
+    "users": [
+        {
+            "uuid": "68f87139-abd3-4e5f-a8b2-11aaa6b75a5c",
+            "creationDate": "2025-10-03T19:27:01.725Z",
+            "updatedDate": "2025-10-03T19:27:01.725Z",
+            "name": "root",
+            "password": "$2a$10$s.kuNbcsdqqb1RpwYhov5eKJvt/cuiyvfhmc2YxNtgFQaeSKPH89C",
+            "isActived": true,
+            "isRoot": true
+        }
+    ],
+    "colors": [
+        {
+            "uuid": "086e505d-5f6e-4fb5-aeb5-cd06175bcfdc",
+            "colorName": "Preto"
+        },
+        {
+            "uuid": "f2216441-3b7e-4732-943e-6ccb44f364ab",
+            "colorName": "Branco"
+        },
+        {
+            "uuid": "767201f3-562a-4500-918b-af3bb9ac3f6c",
+            "colorName": "Vermelho"
+        },
+        {
+            "uuid": "c1f55da3-3d0c-4dd9-ba1f-3fc76767b6d0",
+            "colorName": "Cinza"
+        },
+        {
+            "uuid": "041f86c6-66b2-4908-a771-cc341dd69538",
+            "colorName": "Azul"
+        }
+    ],
+    "models": [
+        {
+            "uuid": "bcff0d61-5173-4bc6-916c-24cb2063b3c5",
+            "modelName": "T-Cross"
+        },
+        {
+            "uuid": "deff3024-e0c1-4cde-b90c-ba2d6774a5ed",
+            "modelName": "Nivus"
+        },
+        {
+            "uuid": "c4b5b06f-1ebe-4ebf-a8bd-0da239309c56",
+            "modelName": "Polo"
+        },
+        {
+            "uuid": "8a63d561-504f-448c-abbd-41cd8c949a19",
+            "modelName": "Virtus"
+        },
+        {
+            "uuid": "a6170d13-aab3-4f35-8378-3adcc52eabc1",
+            "modelName": "Saveiro"
+        },
+        {
+            "uuid": "916ce6b2-bb55-42e2-a853-8f4670ed1f05",
+            "modelName": "Track"
+        }
+    ],
+    "vehicles": [
+        {
+            "uuid": "a14b2474-37f5-4017-95a2-ccacd2b1e3ad",
+            "creationDate": "2025-10-03T19:28:37.603Z",
+            "updatedDate": "2025-10-03T19:28:37.603Z",
+            "creationUserName": "root",
+            "updatedUserName": "root",
+            "year": 2019,
+            "imagePath": "http://localhost:1880/uploads/1759519717602_mobile_apple.png",
+            "model": {
+                "uuid": "8a63d561-504f-448c-abbd-41cd8c949a19",
+                "modelName": "Virtus"
+            },
+            "color": {
+                "uuid": "086e505d-5f6e-4fb5-aeb5-cd06175bcfdc",
+                "colorName": "Preto"
+            }
+        },
+        {
+            "uuid": "e2a5c2a2-f1a3-4d75-b76a-0b9744b52ee0",
+            "creationDate": "2025-10-03T19:57:36.015Z",
+            "updatedDate": "2025-10-03T19:57:36.015Z",
+            "creationUserName": "root",
+            "updatedUserName": "root",
+            "year": 2026,
+            "imagePath": "http://localhost:1880/uploads/1759521456015_mobile_google.png",
+            "model": {
+                "uuid": "bcff0d61-5173-4bc6-916c-24cb2063b3c5",
+                "modelName": "T-Cross"
+            },
+            "color": {
+                "uuid": "767201f3-562a-4500-918b-af3bb9ac3f6c",
+                "colorName": "Vermelho"
+            }
+        }
+    ]
+}
